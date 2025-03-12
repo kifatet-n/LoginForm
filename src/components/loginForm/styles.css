@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100hv;
+}
+.login-container{
+    width: 320px;
+    text-align: center;
+}
+.input-group{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+.input-icon{
+    width: 20px;
+}
+button{
+    width: 100%;
+    padding: 10px;
+    background: blue;
+    color: white;
+    border:none;
+    cursor:pointer;
+}
