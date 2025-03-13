@@ -75,4 +75,14 @@ button {
   color: white;
   border: none;
   cursor: pointer;
+  margin: 20px 0 10px 0;
+}
+.input-error{
+  border: 2px solid red;
+
+}
+.error-message{
+  color: red;
+  font-size: 12px;
+  margin-bottom: 5px;
 }
